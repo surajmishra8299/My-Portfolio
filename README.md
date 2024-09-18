@@ -17,9 +17,9 @@ JavaScript: Added interactivity and dynamic behavior to the website.
 3.Customize the content, styles, and scripts to personalize the portfolio according to your preferences and projects.
 
 # Structure
-index.html: Main HTML file containing the structure of the portfolio website.
-styles.css: CSS file for styling the website layout, typography, and design.
-script.js: JavaScript file for adding interactivity, animations, and dynamic behavior to the website.
-images/: Directory containing images used in the portfolio (e.g., project screenshots, profile picture).
-Contributing
+- index.html: Main HTML file containing the structure of the portfolio website.
+- styles.css: CSS file for styling the website layout, typography, and design.
+- script.js: JavaScript file for adding interactivity, animations, and dynamic behavior to the website.
+- images/: Directory containing images used in the portfolio (e.g., project screenshots, profile picture).
+# Contributing
 Contributions to this project are welcome! If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
